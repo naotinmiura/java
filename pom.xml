@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+
+    <groupId>jp.gihyo.projava</groupId>
+    <artifactId>paraent</artifactId>
+    <version>1.0</version>
+
+    <modules>
+        <module>part-2/chapter-06-swing</module>
+        <module>part-3/chapter-07-condition</module>
+        <module>part-3/chapter-09-loop</module>
+        <module>part-3/chapter-10-foreach</module>
+        <module>part-3/chapter-11-method</module>
+        <module>part-4/chapter-12-io</module>
+        <module>part-4/chapter-13-difficulty</module>
+        <module>part-4/chapter-14-class</module>
+        <module>part-4/chapter-15-inheritance</module>
+        <module>part-5/chapter-16-build-tool</module>
+        <module>part-5/chapter-17-javadoc</module>
+        <module>part-5/chapter-18-junit</module>
+        <module>part-5/chapter-19-ide</module>
+        <module>part-6/chapter-21-spring-boot</module>
+        <module>part-6/chapter-22-database</module>
+    </modules>
+
+</project>
